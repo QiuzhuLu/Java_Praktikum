@@ -1,3 +1,3 @@
 # Java_Praktikum
-Praktikum Aufgaben von Module Programmiertechnik 2
+Praktikum Aufgaben vom Modul Programmiertechnik 2
 
